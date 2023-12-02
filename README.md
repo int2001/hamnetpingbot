@@ -2,7 +2,7 @@
 Bot which checks if HamNet-Host is alive
 
 ## Purpose
-* Script will check if a host is alive. If it isn't for more that 5 times it'll post a message to a defined Telegram-Channel.
+* Script will check if a host is alive. If it isn't for more than 5 times it'll post a message to a defined Telegram-Channel.
 * If Host is back, it'll post that
 * Interaction is possible, too: simply text (in an allowed Channel - see config.js) the command `/ping [hostname]`
 
