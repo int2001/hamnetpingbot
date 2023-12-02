@@ -1,6 +1,5 @@
 # hamnetpingbot
 Bot which checks if HamNet-Host is alive
-<<<<<<< HEAD
 
 ## Purpose
 * Script will check if a host is alive. If it isn't for more that 5 times it'll post a message to a defined Telegram-Channel.
@@ -24,5 +23,3 @@ Launch via `node ./index.js` or with your favourite starter like `pm2`
 * Telegram-Token HowTo: https://www.siteguarding.com/en/how-to-get-telegram-bot-api-token
 * ChatIDs are displayed, whenever somebbody texts to the bot (See console - json-payload)
 * bot needs to be set to "Group Privacy == off" (todo at botFather - SetUp)
-=======
->>>>>>> 6b93356 (Initial commit)
